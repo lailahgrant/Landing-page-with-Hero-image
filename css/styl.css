@@ -34,3 +34,9 @@
     text-align: center;
     margin: .625rem;
 }
+
+.hero-title{
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom:0 ;
+}
