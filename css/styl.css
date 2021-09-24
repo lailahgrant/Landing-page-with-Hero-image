@@ -41,3 +41,10 @@
     margin-bottom:0 ;
     font-family:"Oswald", sans-serif;
 }
+
+.hero-button{
+    background-color: white;
+    color:#22363A;
+    border:1px solid #22363A;
+    
+}
